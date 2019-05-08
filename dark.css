@@ -2162,8 +2162,7 @@ ts-message {
     }
 
     ts-message.automated .message_body {
-        color: #35F001;
-        /* color: rgba(230, 230, 230, 0.8); */
+        color: rgba(230, 230, 230, 0.8);
     }
 
     ts-message .action_hover_container {
@@ -2332,7 +2331,8 @@ ts-mention {
 }
 
 .star {
-    color: #949494;
+    color: #35F001;
+    /* color: #949494; */
 }
 
 .star_item {
