@@ -4902,7 +4902,8 @@ span.match {
 }
 
 .c-member__display-name, .c-team__display-name, .c-usergroup__handle {
-    color: #c7c7c7;
+    color: #35F001 !important;
+    /* color: #c7c7c7; */
 }
 
 .c-member__current-status--small::before, .c-member__secondary-name--large + .c-member__current-status--large::before, .c-member__secondary-name--medium + .c-member__current-status--medium::before {
