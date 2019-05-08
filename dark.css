@@ -4,7 +4,8 @@ body {
 }
 
 a {
-    color: #949494;
+    color: #0091EB !important;
+    /* color: #949494; */
 }
 
     a:link, a:visited {
