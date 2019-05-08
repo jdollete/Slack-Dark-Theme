@@ -2346,7 +2346,8 @@ ts-mention {
     }
 
 .bot_message .message_sender {
-    color: #a1a1a1;
+    /* color: #a1a1a1; */
+    color: #0091EB;
 }
 
     .bot_message .message_sender a {
