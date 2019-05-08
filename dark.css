@@ -863,7 +863,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #typing_text {
-    color: #949494;
+    color: #0DCBFF;
     filter: none;
 }
 
