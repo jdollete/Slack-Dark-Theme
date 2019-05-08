@@ -2057,9 +2057,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 /* Changes color of messages */
+/* color: #a1a1a1; */
 ts-message {
-    /* color: #a1a1a1; */
-    color: #35F001 !important; 
+    color: #35F001; 
 }
 
     ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) {
@@ -2215,7 +2215,8 @@ ts-message {
     }
 
         ts-message .meta.msg_inline_img_toggler .member, ts-message .meta.msg_inline_img_toggler .service_link, ts-message .meta.msg_inline_file_preview_toggler .member, ts-message .meta.msg_inline_file_preview_toggler .service_link {
-            color: #949494 !important;
+            /* color: #949494 !important; */
+            color: #0091EB !important;
         }
 
         ts-message .meta.msg_inline_img_toggler .msg_inline_media_toggler, ts-message .meta.msg_inline_img_toggler .ts_icon_dropbox, ts-message .meta.msg_inline_img_toggler a, ts-message .meta.msg_inline_file_preview_toggler .msg_inline_media_toggler, ts-message .meta.msg_inline_file_preview_toggler .ts_icon_dropbox, ts-message .meta.msg_inline_file_preview_toggler a {
