@@ -1900,7 +1900,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .c-message__body {
-    color: #a1a1a1;
+    color: #35F001 !important;
+    /* color: #a1a1a1; */
 }
 
 .c-message__body--unknown {
