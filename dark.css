@@ -2056,9 +2056,10 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8);
 }
 
+/* Changes color of messages */
 ts-message {
     /* color: #a1a1a1; */
-    color: #35F001; /* Changes color of messages */
+    color: #35F001; 
 }
 
     ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) {
