@@ -4,7 +4,7 @@ body {
 }
 
 a {
-    color: #949494;
+    color: #0091EB;
 }
 
     a:link, a:visited {
@@ -863,7 +863,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #typing_text {
-    color: #0DCBFF;
+    color: #0091EB;
     filter: none;
 }
 
@@ -931,7 +931,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 .ql-container.texty_single_line_input {
     background: #545454;
     border: 1px solid #363636;
-    color: #a1a1a1;
+    /* color: #a1a1a1; */
+    color: white;
+
 }
 
     .ql-container.texty_single_line_input.focus, .ql-container.texty_single_line_input:hover {
