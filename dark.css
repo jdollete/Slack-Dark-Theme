@@ -864,7 +864,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #typing_text {
-    color: #949494;
+    color: #35F001 !important;
+    /* color: #949494; */
     filter: none;
 }
 
@@ -2085,7 +2086,8 @@ ts-message {
     }
 
     ts-message .timestamp {
-        color: #949494;
+        color: #0091EB !important;
+        /* color: #949494; */
     }
 
     ts-message .temp_msg_controls {
@@ -4902,8 +4904,7 @@ span.match {
 }
 
 .c-member__display-name, .c-team__display-name, .c-usergroup__handle {
-    color: #35F001 !important;
-    /* color: #c7c7c7; */
+    color: #c7c7c7;
 }
 
 .c-member__current-status--small::before, .c-member__secondary-name--large + .c-member__current-status--large::before, .c-member__secondary-name--medium + .c-member__current-status--medium::before {
