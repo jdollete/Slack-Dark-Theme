@@ -834,7 +834,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 #msg_input_message {
     background-color: #363636;
-    color: #35F001;
+    color: #35F001 !important;
     /* color: #a1a1a1; */
 }
 
@@ -927,7 +927,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .ql-placeholder {
-    color: #a1a1a1;
+    color: #35F001 !important;
+    /* color: #a1a1a1; */
     filter: none;
 }
 
