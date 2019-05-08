@@ -1899,6 +1899,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .c-message__body {
     color: #a1a1a1;
+
 }
 
 .c-message__body--unknown {
@@ -2253,8 +2254,7 @@ ts-message {
 
 ts-mention {
     background: rgba(130, 130, 130, 0.1) !important;
-    /* color: #a1a1a1 !important; */
-    color: orange !important;
+    color: #a1a1a1 !important;
 }
 
 .selecting_messages ts-message:hover {
