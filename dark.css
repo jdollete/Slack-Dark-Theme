@@ -2054,9 +2054,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 ts-message {
-    color: purple;
-    /* color: #35F001; */
-    /* color: #35F001; */
+    color: #35F001;
+    /* color: #a1a1a1; */
 }
 
     ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) {
@@ -2163,7 +2162,8 @@ ts-message {
     }
 
     ts-message.automated .message_body {
-        color: rgba(230, 230, 230, 0.8);
+        color: #35F001;
+        /* color: rgba(230, 230, 230, 0.8); */
     }
 
     ts-message .action_hover_container {
