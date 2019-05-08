@@ -2248,13 +2248,13 @@ ts-message {
         }
 
 .ephemeral.message .message_content {
-    /* color: #a1a1a1; */
-    color: red;
+    color: #a1a1a1;
 }
 
 ts-mention {
     background: rgba(130, 130, 130, 0.1) !important;
-    color: #a1a1a1 !important;
+    /* color: #a1a1a1 !important; */
+    color: orange !important;
 }
 
 .selecting_messages ts-message:hover {
