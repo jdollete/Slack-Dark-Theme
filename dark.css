@@ -834,7 +834,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 #msg_input_message {
     background-color: #363636;
-    color: #a1a1a1;
+    color: #35F001;
+    /* color: #a1a1a1; */
 }
 
 #primary_file_button {
