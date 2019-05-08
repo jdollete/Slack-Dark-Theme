@@ -1898,9 +1898,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .c-message__body {
-    /* color: #a1a1a1; */
-    color: #35F001;
-
+    color: #a1a1a1;
 }
 
 .c-message__body--unknown {
@@ -2059,7 +2057,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 ts-message {
     /* color: #a1a1a1; */
-    color: #35F001;
+    color: #35F001; /* Changes color of messages */
 }
 
     ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) {
@@ -2250,7 +2248,8 @@ ts-message {
         }
 
 .ephemeral.message .message_content {
-    color: #a1a1a1;
+    /* color: #a1a1a1; */
+    color: red;
 }
 
 ts-mention {
