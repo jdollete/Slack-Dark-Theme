@@ -1898,7 +1898,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .c-message__body {
-    color: #a1a1a1;
+    /* color: #a1a1a1; */
+    color: white;
+
 }
 
 .c-message__body--unknown {
@@ -2056,7 +2058,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 ts-message {
-    color: #a1a1a1;
+    /* color: #a1a1a1; */
+    color: white;
 }
 
     ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) {
