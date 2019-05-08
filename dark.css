@@ -2059,7 +2059,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 ts-message {
     /* color: #a1a1a1; */
-    color: white;
+    color: #35F001;
 }
 
     ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) {
