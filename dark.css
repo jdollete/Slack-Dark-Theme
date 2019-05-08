@@ -4,7 +4,8 @@ body {
 }
 
 a {
-    color: #949494;
+    color: #0091EB !important;
+    /* color: #949494; */
 }
 
     a:link, a:visited {
@@ -833,7 +834,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 #msg_input_message {
     background-color: #363636;
-    color: #a1a1a1;
+    color: #35F001 !important;
+    /* color: #a1a1a1; */
 }
 
 #primary_file_button {
@@ -863,7 +865,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 #typing_text {
-    color: #949494;
+    color: #35F001 !important;
+    /* color: #949494; */
     filter: none;
 }
 
@@ -924,7 +927,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .ql-placeholder {
-    color: #a1a1a1;
+    color: #35F001 !important;
+    /* color: #a1a1a1; */
     filter: none;
 }
 
@@ -1896,7 +1900,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     }
 
 .c-message__body {
-    color: #a1a1a1;
+    color: #35F001 !important;
+    /* color: #a1a1a1; */
 }
 
 .c-message__body--unknown {
@@ -2084,7 +2089,8 @@ ts-message {
     }
 
     ts-message .timestamp {
-        color: #949494;
+        color: #0091EB !important;
+        /* color: #949494; */
     }
 
     ts-message .temp_msg_controls {
@@ -2331,7 +2337,7 @@ ts-mention {
 }
 
 .star {
-    color: #35F001;
+    color: #35F001 !important;
     /* color: #949494; */
 }
 
