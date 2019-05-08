@@ -2334,7 +2334,7 @@ ts-mention {
 }
 
 .star {
-    color: #35F001;
+    color: #35F001 !important;
     /* color: #949494; */
 }
 
