@@ -894,8 +894,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 .c-message__editor__input {
     background: #545454;
     border-color: #363636;
-    color: #35F001 !important;
-    /* color: #a1a1a1; */
+    color: #a1a1a1;
 }
 
     .c-message__editor__input.focus {
@@ -4286,7 +4285,7 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .search_message_result .search_message_result_meta {
-        color: #949494;
+        color: #949494 !important;
     }
 
         .search_message_result .search_message_result_meta a {
@@ -4298,7 +4297,7 @@ html.no_touch a.filetype_button_web:hover {
         }
 
 .search_message_result_text .result_msg_format a {
-    color: #949494;
+    color: #949494 !important;
 }
 
 span.match {
