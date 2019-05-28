@@ -4281,7 +4281,8 @@ html.no_touch a.filetype_button_web:hover {
 .search_message_result {
     background: #222 !important;
     border-color: #363636 !important;
-    color: #a1a1a1 !important;
+    color: #35F001 !important;
+    /* color: #a1a1a1 !important; */
 }
 
     .search_message_result .search_message_result_meta {
