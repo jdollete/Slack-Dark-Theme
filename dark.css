@@ -4286,15 +4286,18 @@ html.no_touch a.filetype_button_web:hover {
 }
 
     .search_message_result .search_message_result_meta {
-        color: #949494 !important;
+        color: #35F001 !important;
+        /* color: #949494 !important; */
     }
 
         .search_message_result .search_message_result_meta a {
-            color: #949494;
+            color: #35F001;
+            /* color: #949494; */
         }
 
         .search_message_result .search_message_result_meta .date_links a {
-            color: #949494;
+            color: #35F001;
+            /* color: #949494; */
         }
 
 .search_message_result_text .result_msg_format a {
