@@ -8702,3 +8702,7 @@ a, a:link, a:visited {
 .c-reaction__count {
     color: lightgray;
 }
+
+.c-icon_button--light {
+    color: #35F001;
+}
