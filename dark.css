@@ -8704,5 +8704,5 @@ a, a:link, a:visited {
 }
 
 .c-icon_button--light {
-    color: #35F001;
+    color: #35F001 !important;
 }
